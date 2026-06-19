@@ -1,0 +1,10 @@
+{
+  "name": "FitAI Coach",
+  "description": "A modern, highly polished, and responsive AI-powered health and fitness coach. Features personalized calorie & macro calculation, daily diet and weekly workout generators, food image calorie estimation, and interactive progress tracking charts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
